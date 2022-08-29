@@ -2,4 +2,4 @@
 
 
 
-This repo. is for all the projects developed in python.
+This repo. is for all the projects developed.
